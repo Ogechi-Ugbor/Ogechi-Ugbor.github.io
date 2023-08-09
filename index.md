@@ -62,10 +62,10 @@ Description: Ensuring the reliability, accuracy, and security of a cutting-edge 
   - Utilized Jira to log defects with detailed steps to reproduce, expected outcomes, and screenshots.
   - Collaborated closely with developers to verify bug fixes and ensure the timely resolution of issues.
 
-#### Tools Used: 
+##### Tools Used: 
 Testim for automated regression testing, Jira for defect tracking.
 
-#### Outcome:
+##### Outcome:
 Through rigorous testing and collaboration with development and legal teams, critical defects were identified and resolved, ensuring the accuracy and security of equity-related transactions. The successful implementation of automated regression tests contributed to faster feedback on code changes and a smoother release process. The legal tech platform was well-positioned to provide virtual equity services with enhanced user confidence, meeting legal requirements and exceeding user expectations.
 
 ### Project 2: Mobile App Testing for Health and Fitness Application 
@@ -113,14 +113,14 @@ Simulated high user load scenarios to assess the app's performance under heavy u
 
  -  Participated in regression testing after each app update, verifying that new features or bug fixes did not introduce new issues.
 
-#### Improvement Suggestions:
+##### Improvement Suggestions:
 
 Provided valuable feedback to the development team on user interface enhancements and potential performance optimizations.
 
-#### Tools Used: 
+##### Tools Used: 
 Majorly manually tested, Jira for defect tracking, various real devices for testing.
 
-#### Outcome:
+##### Outcome:
 The successful completion of this project led to a more stable and user-friendly health and fitness app. Through rigorous testing and bug reporting, critical issues were identified and resolved, ensuring that users could rely on the app for accurate exercise tracking, e - shopping and goal setting. Additionally, the implementation of Jira helped in tracking progress of bugs reported.
 
 <!--
