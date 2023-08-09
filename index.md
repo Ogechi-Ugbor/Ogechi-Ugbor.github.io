@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+
+<img src="IMG_8168.jpg" alt="drawing" width="200"/>
+
+
 Highly dedicated and results-oriented Quality Assurance Engineer with a proven track record of meticulously executing test plans, crafting robust test cases, and designing efficient test scripts to ensure exceptional software functionality and performance. Proficient in manual testing for consumer-facing mobile applications on iOS and Android platforms, as well as web applications, with an added proficiency in web automation. Adept at identifying and reporting bugs using Jira, leading to a significant reduction in critical issues and improved product quality, resulting in heightened user satisfaction. Committed to continuous learning and seeking opportunities in a challenging and innovative tech environment that values professional growth, aiming to leverage my skills to drive excellence and make a meaningful impact in a forward-thinking company.
 
 ## Skills and Expertise: 
