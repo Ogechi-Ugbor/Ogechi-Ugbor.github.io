@@ -8,7 +8,7 @@
 <!-- ![Alt Text](IMG_8168.jpg) -->
 
 
-A Highly dedicated and results-oriented Quality Assurance Engineer with a proven track record of meticulously executing test plans, crafting robust test cases, and designing efficient test scripts to ensure exceptional software functionality and performance. Proficient in manual testing for consumer-facing mobile applications on iOS and Android platforms, as well as web applications, with an added proficiency in web automation. Adept at identifying and reporting bugs using Jira, leading to a significant reduction in critical issues and improved product quality, resulting in heightened user satisfaction. Committed to continuous learning and seeking opportunities in a challenging and innovative tech environment that values professional growth, aiming to leverage my skills to drive excellence and make meaningful impact in a forward-thinking company.
+A Highly dedicated and results-oriented Quality Assurance Engineer with a proven track record of meticulously executing test plans, crafting robust test cases, and designing efficient test scripts to ensure exceptional software functionality and performance. Proficient in manual testing for consumer-facing mobile applications on iOS and Android platforms, as well as web applications, with an added proficiency in web automation. Adept at identifying and reporting bugs using Jira, leading to a significant reduction in critical issues and improved product quality, resulting in heightened user satisfaction. Committed to continuous learning and seeking opportunities in a challenging and innovative tech environment that values professional growth, aiming to leverage my skills to drive excellence and make a meaningful impact in a forward-thinking company.
 
 ## Skills and Expertise: 
 
@@ -29,7 +29,7 @@ A Highly dedicated and results-oriented Quality Assurance Engineer with a proven
 
 ## Projects:
 
-#### Project 1: Quality Assurance for a Legal Tech Platform
+### Project 1: Quality Assurance for a Legal Tech Platform
 
 Description: Ensuring the reliability, accuracy, and security of a cutting-edge legal tech platform offering virtual equity services.
 
@@ -62,12 +62,13 @@ Description: Ensuring the reliability, accuracy, and security of a cutting-edge 
   - Utilized Jira to log defects with detailed steps to reproduce, expected outcomes, and screenshots.
   - Collaborated closely with developers to verify bug fixes and ensure the timely resolution of issues.
 
-#### Tools Used: Testim for automated regression testing, Jira for defect tracking.
+#### Tools Used: 
+Testim for automated regression testing, Jira for defect tracking.
 
-###### Outcome:
+#### Outcome:
 Through rigorous testing and collaboration with development and legal teams, critical defects were identified and resolved, ensuring the accuracy and security of equity-related transactions. The successful implementation of automated regression tests contributed to faster feedback on code changes and a smoother release process. The legal tech platform was well-positioned to provide virtual equity services with enhanced user confidence, meeting legal requirements and exceeding user expectations.
 
-#### Project 2: Mobile App Testing for Health and Fitness Application
+### Project 2: Mobile App Testing for Health and Fitness Application 
 
 ##### Description: The goal of this project was to thoroughly test a health and fitness mobile application, ensuring that it delivers a seamless and effective user experience on both iOS and Android platforms.
 
@@ -112,13 +113,15 @@ Simulated high user load scenarios to assess the app's performance under heavy u
 
  -  Participated in regression testing after each app update, verifying that new features or bug fixes did not introduce new issues.
 
-Improvement Suggestions:
+#### Improvement Suggestions:
 
 Provided valuable feedback to the development team on user interface enhancements and potential performance optimizations.
 
-Tools Used: Majorly manually tested, Jira for defect tracking, various real devices for testing.
+#### Tools Used: 
+Majorly manually tested, Jira for defect tracking, various real devices for testing.
 
-Outcome: The successful completion of this project led to a more stable and user-friendly health and fitness app. Through rigorous testing and bug reporting, critical issues were identified and resolved, ensuring that users could rely on the app for accurate exercise tracking, e - shopping and goal setting. Additionally, the implementation of Jira helped in tracking progress of bugs reported.
+#### Outcome:
+The successful completion of this project led to a more stable and user-friendly health and fitness app. Through rigorous testing and bug reporting, critical issues were identified and resolved, ensuring that users could rely on the app for accurate exercise tracking, e - shopping and goal setting. Additionally, the implementation of Jira helped in tracking progress of bugs reported.
 
 <!--
 **Ogechi-Ugbor/Ogechi-Ugbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
