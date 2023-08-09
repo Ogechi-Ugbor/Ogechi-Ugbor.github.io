@@ -8,7 +8,7 @@
 <!-- ![Alt Text](IMG_8168.jpg) -->
 
 
-Highly dedicated and results-oriented Quality Assurance Engineer with a proven track record of meticulously executing test plans, crafting robust test cases, and designing efficient test scripts to ensure exceptional software functionality and performance. Proficient in manual testing for consumer-facing mobile applications on iOS and Android platforms, as well as web applications, with an added proficiency in web automation. Adept at identifying and reporting bugs using Jira, leading to a significant reduction in critical issues and improved product quality, resulting in heightened user satisfaction. Committed to continuous learning and seeking opportunities in a challenging and innovative tech environment that values professional growth, aiming to leverage my skills to drive excellence and make a meaningful impact in a forward-thinking company.
+A Highly dedicated and results-oriented Quality Assurance Engineer with a proven track record of meticulously executing test plans, crafting robust test cases, and designing efficient test scripts to ensure exceptional software functionality and performance. Proficient in manual testing for consumer-facing mobile applications on iOS and Android platforms, as well as web applications, with an added proficiency in web automation. Adept at identifying and reporting bugs using Jira, leading to a significant reduction in critical issues and improved product quality, resulting in heightened user satisfaction. Committed to continuous learning and seeking opportunities in a challenging and innovative tech environment that values professional growth, aiming to leverage my skills to drive excellence and make a meaningful impact in a forward-thinking company.
 
 ## Skills and Expertise: 
 
@@ -29,9 +29,9 @@ Highly dedicated and results-oriented Quality Assurance Engineer with a proven t
 
 ## Projects:
 
-#### Project 1: Quality Assurance for Legal Tech Platform
+#### Project 1: Quality Assurance for a Legal Tech Platform
 
-Description: This project involved ensuring the reliability, accuracy, and security of a cutting-edge legal tech platform that offers virtual equity services to clients.
+Description: Ensuring the reliability, accuracy, and security of a cutting-edge legal tech platform offering virtual equity services.
 
 ##### Contributions:
 
@@ -73,40 +73,44 @@ Through rigorous testing and collaboration with development and legal teams, cri
 
 ##### Contributions:
 
-Test Scenario Design: Collaborated with the dev team to define comprehensive test scenarios covering various aspects of the health and fitness app.
+###### 1. Test Scenario Design: 
+Collaborated with the dev team to define comprehensive test scenarios covering various aspects of the health and fitness app.
 
-##### Manual Testing:
+###### 2. Manual Testing:
 
-###### User Registration: 
-  Executed tests to validate the user registration process, ensuring accurate user profile creation.
-###### Exercise Tracking:
-  Conducted tests to verify the app's ability to accurately record and display user exercises.
-###### Goal Setting:
+-  User Registration: 
+ Executed tests to validate the user registration process, ensuring accurate user profile creation.
+-  Exercise Tracking:
+ Conducted tests to verify the app's ability to accurately record and display user exercises.
+-  Goal Setting:
 Tested the functionality of goal setting and tracking, confirming that users can set fitness targets.
+-  E - Shopping:
 Ensured ease in shopping for fitness items on the app, from adding to cart to calculations to tracking items ordered e.t.c.
-User Interface: Evaluated the app's user interface, navigation, and responsiveness across different devices and orientations.
+-  User Interface: 
+Evaluated the app's user interface, navigation, and responsiveness across different devices and orientations.
 
-#### Compatibility Testing:
+###### 3. Compatibility Testing:
 
-###### Multi-Platform Testing: 
+-  Multi-Platform Testing: 
 Conducted tests on both iOS and Android devices to ensure cross-platform compatibility.
-Device Variation: Tested the app on a variety of devices with different screen sizes, resolutions, and operating system versions.
+-  Device Variation: 
+Tested the app on a variety of devices with different screen sizes, resolutions, and operating system versions.
 
-###### Performance Testing:
+###### 4.  Performance Testing
 
-###### Stress Testing: 
-
+-  Stress Testing: 
 Simulated high user load scenarios to assess the app's performance under heavy usage.
-Responsiveness: Monitored app responsiveness during actions such as exercise tracking, goal updates, and real-time data syncing.
+-  Responsiveness: 
+ Moitored app responsiveness during actions such as exercise tracking, goal updates, and real-time data syncing.
 
-#### Bug Reporting and Collaboration:
+###### 5. Bug Reporting and Collaboration:
 
-Identified and documented defects using Jira, providing detailed steps to reproduce issues and attaching relevant screenshots.
-Collaborated closely with developers to ensure clear communication of defects and to verify bug fixes.
+ -  Identified and documented defects using Jira, providing detailed steps to reproduce issues and attaching relevant screenshots.
+ -   Collaborated closely with developers to ensure clear communication of defects and to verify bug fixes.
 
-Regression Testing:
+###### 6. Regression Testing:
 
-Participated in regression testing after each app update, verifying that new features or bug fixes did not introduce new issues.
+ -  Participated in regression testing after each app update, verifying that new features or bug fixes did not introduce new issues.
 
 Improvement Suggestions:
 
@@ -114,7 +118,7 @@ Provided valuable feedback to the development team on user interface enhancement
 
 Tools Used: Majorly manually tested, Jira for defect tracking, various real devices for testing.
 
-Outcome: The successful completion of this project led to a more stable and user-friendly health and fitness app. Through rigorous testing and bug reporting, critical issues were identified and resolved, ensuring that users could rely on the app for accurate exercise tracking and goal setting. Additionally, the implementation of Jira helped in tracking progress of bugs reported.
+Outcome: The successful completion of this project led to a more stable and user-friendly health and fitness app. Through rigorous testing and bug reporting, critical issues were identified and resolved, ensuring that users could rely on the app for accurate exercise tracking, e - shopping and goal setting. Additionally, the implementation of Jira helped in tracking progress of bugs reported.
 
 <!--
 **Ogechi-Ugbor/Ogechi-Ugbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
