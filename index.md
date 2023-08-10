@@ -13,7 +13,7 @@ A Highly dedicated and results-oriented Quality Assurance Engineer with a proven
 ## Skills and Expertise: 
 
 - Manual Testing 
-- Test Automation (Testim) 
+- Test Automation (Testim (low-code) ) 
 - Bug Tracking (Jira)
 - Test Planning and Execution 
 - Agile Testing Methodology 
@@ -124,6 +124,13 @@ Majorly manually tested, Jira for defect tracking, various real devices for test
 
 ##### Outcome:
 The successful completion of this project led to a more stable and user-friendly health and fitness app. Through rigorous testing and bug reporting, critical issues were identified and resolved, ensuring that users could rely on the app for accurate exercise tracking, e - shopping and goal setting. Additionally, the implementation of Jira helped in tracking progress of bugs reported.
+
+
+
+##### Email Address; 
+Ugborogechi@gmail.com
+##### Linkedin : 
+https://www.linkedin.com/in/ogechi-ugbor-59b525142/
 
 <!--
 **Ogechi-Ugbor/Ogechi-Ugbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
