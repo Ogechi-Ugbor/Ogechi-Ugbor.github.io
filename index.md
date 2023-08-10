@@ -31,7 +31,8 @@ A Highly dedicated and results-oriented Quality Assurance Engineer with a proven
 
 ### Project 1: Quality Assurance for a Legal Tech Platform
 
-Description: Ensuring the reliability, accuracy, and security of a cutting-edge legal tech platform offering virtual equity services.
+##### Description: 
+Ensuring the reliability, accuracy, and security of a cutting-edge legal tech platform offering virtual equity services.
 
 ##### Contributions:
 
@@ -70,7 +71,8 @@ Through rigorous testing and collaboration with development and legal teams, cri
 
 ### Project 2: Mobile App Testing for Health and Fitness Application 
 
-##### Description: The goal of this project was to thoroughly test a health and fitness mobile application, ensuring that it delivers a seamless and effective user experience on both iOS and Android platforms.
+##### Description: 
+The goal of this project was to thoroughly test a health and fitness mobile application, ensuring that it delivers a seamless and effective user experience on both iOS and Android platforms.
 
 ##### Contributions:
 
